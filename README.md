@@ -162,7 +162,7 @@ This project is licensed not under the MIT License.
 
 ### Additional Resources
 
-- [[Keysmith Documentation](https://www.keysmithapp.com/docs/)](https://www.keysmith.app/)
+- [Keysmith Documentation](https://www.keysmithapp.com/docs/)
 - [Python Official Website](https://www.python.org/)
 - [BeautifulSoup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 - [Requests Documentation](https://requests.readthedocs.io/en/latest/)
