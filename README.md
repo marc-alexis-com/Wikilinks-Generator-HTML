@@ -2,7 +2,7 @@
 ## Overview
 **WikiLinkGenerator** is a Python-based tool designed to streamline the process of adding Wikipedia links to your HTML files. By generating HTML `<a>` tags that link to the most relevant Wikipedia articles based on your search terms, WikiLinkGenerator simplifies the task of enhancing your web content with authoritative references. Additionally, it integrates seamlessly with [Keysmith](https://www.keysmithapp.com/) on macOS, allowing for quick and easy access through customizable keyboard shortcuts.
 
-[[[[[[METTRE LE GIF]]]]]]
+![showcase](https://github.com/user-attachments/assets/8476c878-32b6-4d58-95ef-bd0625488fea)
 
 ## Features
 
@@ -160,16 +160,16 @@ This project is licensed not under the MIT License.
 
 ---
 
-### 📚 Additional Resources
+### Additional Resources
 
-- [Keysmith Documentation](https://www.keysmithapp.com/docs/)
+- [[Keysmith Documentation](https://www.keysmithapp.com/docs/)](https://www.keysmith.app/)
 - [Python Official Website](https://www.python.org/)
 - [BeautifulSoup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 - [Requests Documentation](https://requests.readthedocs.io/en/latest/)
 
 ---
 
-### 🧩 Integration with Other Projects
+### Integration with Other Projects
 
 WikiLinkGenerator's modular design allows for easy integration into various projects:
 
